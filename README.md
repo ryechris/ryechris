@@ -6,6 +6,7 @@ I do that by means of Development & Operations.
 
 For Development, I program with Go.
 I choose Go for its speed and performance, and because my architecture style is microservices: distributed systems.
+And also because I believe Go is the best programming language for concurrency, as well as to take advantage of fast chips with multiple cores.
 
 Now, that code has to live somewhere; things need to happen to it.
 So that's why I also do Ops. 
