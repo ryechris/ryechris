@@ -1,3 +1,11 @@
+TL;DR
+
+- quality code: clarity, readability, efficiency, maintainability
+
+- programming, not just coding
+
+-----
+
 Hi :)
 
 My name is Riyan. I make softwares as a DevOps Engineer.
@@ -13,4 +21,7 @@ So that's why I also do Ops to build & maintain my own systems.
 
 For Operations, I choose the Cloud. Any cloud theoretically is fine, but you want the most reliable Cloud. For that, I choose the AWS, Azure, or Google Cloud.
 
+-----
 
+Note: Yes, I was the person who wrote Translingua, the translator app once sold on iOS by Volantiri LLC.
+If you want to see my code for that, please contact me; I'll dig up the archives for you.
