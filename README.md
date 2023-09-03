@@ -8,6 +8,8 @@ TL;DR
 
 - Agile approach: continous improvement, perpetual cycle of plan-execute-evaluate
 
+- Microservices/Distributed architecture: ops excellence, efficient/performant, reliable/fault-tolerant, secure, cost-efficient and sustainable
+
 -----
 
 Hi :)
