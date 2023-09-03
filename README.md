@@ -27,5 +27,5 @@ For Operations, I choose the Cloud. Any cloud theoretically is fine, but you wan
 
 -----
 
-Note: Yes, I was the person who wrote Translingua, the translator app once sold on iOS by Volantiri LLC.
+Note: Yes, I was the person who wrote Translingua, the translator app once sold on iOS (until 2022) by Volantiri LLC.
 If you want to see my code for that, please contact me; I'll dig up the archives for you.
