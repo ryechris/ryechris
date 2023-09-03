@@ -4,7 +4,7 @@ TL;DR
 
 - programming, not just coding
 
-- DevOps philosophy and practices: automate, integrate
+- DevOps philosophy & practices: automate, integrate
 
 - Agile approach: continous improvement, perpetual cycle of plan-execute-evaluate
 
