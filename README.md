@@ -1,6 +1,6 @@
 TL;DR
 
-- quality code: clarity, readability, efficiency, maintainability
+- quality code: clarity, readability, efficiency/scalability, maintainability
 
 - programming, not just coding
 
