@@ -10,6 +10,13 @@ TL;DR
 
 - Microservices/Distributed architecture: ops excellence, efficient/performant, reliable/fault-tolerant, secure, cost-efficient and sustainable
 
+- Design thinking in problem solving with algorithms:
+  + think about the problem
+  + design the solution
+  + test and deploy
+
+- Best Practices from industry leaders (e.g. FAANG)
+
 -----
 
 Hi :)
